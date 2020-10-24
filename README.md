@@ -50,7 +50,7 @@ ceros (uno o más de uno). El último bit que sale del registro fuente se almace
 flag C (figura 1.4). El desplazamiento aritmético hace lo mismo, pero manteniendo
 el signo (figura 1.5).
 
-![](imagenes/amg2.png)
+![](imagenes/amg 2.png)
 
 
 ![](https://images.cooltext.com/5474911.png)
