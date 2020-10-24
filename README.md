@@ -39,7 +39,7 @@ pero todavía no es un programa ejecutable.
 
 ![](imagenes/cmd.png)
 
-![](imagenes/consola.png)
+![](imagenes/Consola.png)
 
 ![](imagenes/amg.png)
 
