@@ -33,7 +33,7 @@ usuario, pero no la máquina. Para traducirlo a lenguaje máquina hay que utiliz
 un programa traductor. Éste genera un fichero con la traducción de dicho programa,
 pero todavía no es un programa ejecutable.
 
-## Ejemplos de ejecucion en QENU
+## Ejemplos de ejecucion en QEMU
 
 ![](imagenes/cmd.png)
 
