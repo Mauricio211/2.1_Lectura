@@ -68,7 +68,7 @@ para finalmente volcar los resultados desde registros a memoria.
 * __Direccionamiento a memoria, actualizando registro puntero.__ En este modo de direccionamiento, el registro que genera la dirección se actualiza con la propia dirección. 
 
 ## Tipos de datos
-* __Tipos de datos basicos.__En la siguiente tabla se recogen los diferentes tipos de datos básicos que podrán aparecer en los ejemplos, así como su
+__Tipos de datos basicos.__En la siguiente tabla se recogen los diferentes tipos de datos básicos que podrán aparecer en los ejemplos, así como su
 tamaño y rango de representación.
 
 ![](Imagenes/amg3.png)
