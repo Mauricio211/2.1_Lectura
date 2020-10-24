@@ -12,7 +12,7 @@ llevándose ARM Holdings un pequeño porcentaje por la licencia.
 La arquitectura ARMv6 presenta un conjunto de 17 registros (16 principales más
 uno de estado) de 32 bits cada uno.
 
-![](Imagenes/r1.png)
+![](imagenes/r1.png)
 
 __Registros Generales.__ Su función es el almacenamiento temporal de datos. Son los
 13 registros que van R0 hasta R12.
@@ -35,11 +35,11 @@ pero todavía no es un programa ejecutable.
 
 ## Ejemplos de ejecucion en QENU
 
-![](Imagenes/cmd.png)
+![](imagenes/cmd.png)
 
-![](Imagenes/consola.png)
+![](imagenes/consola.png)
 
-![](Imagenes/amg.png)
+![](imagenes/amg.png)
 
 
 ## Rotaciones y desplazamientos
@@ -50,7 +50,7 @@ ceros (uno o más de uno). El último bit que sale del registro fuente se almace
 flag C (figura 1.4). El desplazamiento aritmético hace lo mismo, pero manteniendo
 el signo (figura 1.5).
 
-![](Imagenes/amg2.png)
+![](imagenes/amg2.png)
 
 
 ![](https://images.cooltext.com/5474911.png)
@@ -71,7 +71,7 @@ para finalmente volcar los resultados desde registros a memoria.
 __Tipos de datos basicos.__En la siguiente tabla se recogen los diferentes tipos de datos básicos que podrán aparecer en los ejemplos, así como su
 tamaño y rango de representación.
 
-![](Imagenes/amg3.png)
+![](imagenes/amg3.png)
 
 __Punteros.__ Un puntero siempre ocupa 32 bits y contiene una dirección de memoria.
 En ensamblador no tienen tanta utilidad como en C, ya que disponemos de registros
