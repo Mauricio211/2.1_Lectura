@@ -1,3 +1,5 @@
+![](https://images.cooltext.com/5474923.png)
+
 ![](https://images.cooltext.com/5474909.png)
 
 ## Características generales de la arquitectura ARM
