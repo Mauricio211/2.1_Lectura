@@ -2,7 +2,7 @@
     @@ Instituto Tecnologico de Tijuana
     @@ Depto de Sistemas y Computación
     @@ Ing. En Sistemas Computacionales
-    @@   
+    @@ --------------------------------  
     @@ Autor : Mauricio Chavez Arroyo
     @@ No. control: 18212159
     @@ Repositorio: http://github.com/Mauricio211
